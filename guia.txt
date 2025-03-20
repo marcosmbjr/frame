@@ -1,0 +1,15 @@
+depois de instalar o node/git/vs code
+
+EXECUTE ESSE CODIGO DIRETO NO CMD :       npm install -g @angular/cli
+
+BAIXE A PASTA WEBworkspace PARA O DISCO LOCAL C:
+
+DESCOMPACTE A PASTA!!!!
+
+APÓS ISSO vá para a pasta WEBworkspace/FRONTEND/TODOAPP e abra o cmd nela e digite:                ng serve
+
+
+AGORA É SÓ ABRIR O LINK E CONTINUAR A PARTIR DA AULA ATUAL !!!!!!!!!!!
+
+http://localhost:4200/
+guia instalaçao
